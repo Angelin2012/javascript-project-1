@@ -84,7 +84,8 @@ h1{
 
 .box{
     display: flex;
-    flex-direction: row wrap;
+    flex-direction: row;
+    flex-wrap: wrap;
     position: absolute;
     margin: 10px;
 }
